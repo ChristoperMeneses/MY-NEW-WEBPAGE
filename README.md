@@ -1,4 +1,4 @@
 # MY-NEW-WEBPAGE
 <html
-<a href="./"><h2> Click Me </h2></a>
+<a href="https://christopermeneses.github.io/MY-NEW-WEBPAGE/"><h2> Click Me </h2></a>
 
