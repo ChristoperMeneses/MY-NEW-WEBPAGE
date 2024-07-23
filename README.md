@@ -6,7 +6,7 @@
 
 <h1>The a element</h1>
 
-<a href="https://christopermeneses.github.io/MY-NEW-WEBPAGE/">Visit My Webpage</a>
+<a href="https://christopermeneses.github.io/MY-NEW-WEBPAGE">Visit My Webpage</a>
 
 </body>
 </html>
