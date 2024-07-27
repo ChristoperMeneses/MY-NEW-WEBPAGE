@@ -1,24 +1,17 @@
-<!DOCTYPE html>
- <html lang="en">
- <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<html>
+<body>
 
-User story 1.
+<h1>
 
-A teacher can teach their students by showing them all information on this website and learn
 
-user story 2
+<a href=""    Hello my name is Christopher Meneses heres my Webpage 
 
-a kid learning about sharks can look at this page ad write answers down about great white sharks
 
-user story 3
+</h1>
 
-a shark bioligists can use my website to gain more info on their career
- 
- 
- </body>
- </html>
+</body>
+</html>
+
 
 
 
